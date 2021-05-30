@@ -2,7 +2,7 @@
 YOLOv4 is a powerful object detector and Deep SORT is a technique to keep track of object in next frame.
 
 ## Demo:
-
+![](demo.gif)
 
 ## Installation:
 `pip install -m requirements.txt`
